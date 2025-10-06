@@ -9,7 +9,7 @@
     - [DES - Instrument Cluster](https://github.com/Instrument-Cluster-Team7/DES_Instrument-Cluster-Team7.git)
     - [DES - Head Unit](https://github.com/Head-Unit-Team1/Head-Unit-Team1.git)
     - [DES - PDC](https://github.com/PDC-Team1/PDC_main.git)
-    - [MCS - Secure OTA](https://github.com/MCS-OTA/OTA_main.git)(In progress)
+    - [MCS - Secure OTA](https://github.com/MCS-OTA/OTA_main.git)
     - [Eclipse SDV Hackathon](https://github.com/Eclipse-SDV-Hackathon-Chapter-Two-APT/APT.git)
 
 ## Tech Stack
